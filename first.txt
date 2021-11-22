@@ -5,3 +5,5 @@
 3. Se prueba el comando git commit -a
 
 4. Hacer modificaciones mientras hay un archivo en staging (o sea que ya fue added pero no committed aún)
+
+5. Primera modificacion en archivo index.html
