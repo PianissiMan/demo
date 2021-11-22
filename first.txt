@@ -1,3 +1,5 @@
 1. Primer archivo con git
 
 2. Este es el primer cambio al archivo
+
+3. Se prueba el comando git commit -a
